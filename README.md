@@ -30,4 +30,6 @@ To perform the analysis, first I needed to clean the data, perform statistical a
 
 ![average_score_by_parental_education](https://github.com/moinul-hossain-dhrubo/Student-Performance-Analysis/assets/122023969/72cb0896-76d3-46a0-96fd-0d0386e87acc)
 
+**Full analysis can be found in `notebooks/datastudents_performance_in_exams_analysis.ipynb`**
+
 
