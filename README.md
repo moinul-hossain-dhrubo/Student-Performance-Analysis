@@ -24,10 +24,10 @@ To perform the analysis, first I needed to clean the data, perform statistical a
 
 6. According to T-test results, there is a considerable difference in math, reading, and writing performance between male and female pupils.
 
-<img src = "hypothesis_test.jpg" width= "800" height = "400">
+![hypothesis_test](https://github.com/moinul-hossain-dhrubo/Student-Performance-Analysis/assets/122023969/f41f578b-98e9-47c5-98ab-9b23798a8ceb)
 
 7. Students seems to perform better when their parents education level is higher.
 
-<img src = "average_score_by_parental_education.png" width= "800" height = "400">
+![average_score_by_parental_education](https://github.com/moinul-hossain-dhrubo/Student-Performance-Analysis/assets/122023969/72cb0896-76d3-46a0-96fd-0d0386e87acc)
 
 
