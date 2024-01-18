@@ -7,7 +7,8 @@ gender,	race/ethnicity, parental level of education, lunch(type), test preparati
 
 ## **Analysis:**
 To perform the analysis, first I needed to clean the data, perform statistical analysis and finally find meaningful and interesting insights. <br/>
-Some interesting findings :
+
+**Some interesting findings :**
 
 1. All three numerical distributions are generally symmetrical or regularly distributed.
 
