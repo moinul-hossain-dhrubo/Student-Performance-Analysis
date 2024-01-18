@@ -16,7 +16,7 @@ To perform the analysis, first I needed to clean the data, perform statistical a
 
 3. There is a high positive correlation between the scores. That is, students who flourish in one topic are likely to excel in another. For math/reading, math/writing, and writing/reading, the R-values are 0.80, 0.78, and 0.95, respectively.
 
-<img src = "score_correlation.png" width="800" height="400">
+![score_correlation](https://github.com/moinul-hossain-dhrubo/Student-Performance-Analysis/assets/122023969/dc3640bb-a9a0-4525-b06b-775cdf7abe43)
 
 4. The similarity of the mean and median in each individual shows that the distributions are symmetric.
 
